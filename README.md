@@ -50,3 +50,18 @@ Think of a way you can expel students without just hiding those divs on the page
 - House Colors: The color of the student's card changes depending on which house they were sorted. 
 - Card Ordering: Sort the student cards by some criteria (i.e. alphabetically by name, by house)
 - Voldermort's Army: Create a separate container of cards that hold the cards for students that have been expelled. These should be styled differently from Hogwarts students.
+
+## Loom video link
+https://www.loom.com/share/2ae1dc9b850b4d5dafdab702a993c1ca
+
+## GitHub URL
+https://github.com/JuanDavila1101/sorting-hat
+
+## GitHub Clone
+$ git clone git@github.com:JuanDavila1101/sorting-hat.git
+
+## Instrutions to clone 
+Clone application in your directory of choice using the terminal and the comand given above: git clone git@git....
+Open another terminal window and navigate to the sorting-hat directory
+Run local server using: hs -o localhost
+TO RUN appllication, open a web browser and enter: http://127.0.0.1:8080/ 
